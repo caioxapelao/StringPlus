@@ -1,4 +1,5 @@
 Python Package/Class that contains all relevant information about a string.
+
 Attributes:
 md5  Returns the string MD5 Hash
 length  Returns the string length
