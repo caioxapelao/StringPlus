@@ -1,7 +1,6 @@
-from setuptools import setup
-
+from setuptools import setup, find_packages
 setup(
     name='String Plus',
     version='1.0',
-    py_modules=['StringPlus']
+    packages=find_packages()
 )
